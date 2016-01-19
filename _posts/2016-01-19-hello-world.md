@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-19T00:14:28.299Z'
-dateModified: '2016-01-19T00:13:46.332Z'
+datePublished: '2016-01-19T00:18:02.026Z'
+dateModified: '2016-01-19T00:16:17.625Z'
 title: Hello world
 author: []
+sourcePath: _posts/2016-01-19-hello-world.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-19-hello-world.md
-published: true
 url: hello-world/index.html
 _type: Article
 
 ---
-raesent et diam eget libero egestas mattis sit amet vitae augue. Nam 
+Praesent et diam eget libero egestas mattis sit amet vitae augue. Nam 
 tincidunt congue enim, ut porta lorem lacinia consectetur. Donec ut 
 libero sed arcu vehicula ultricies a non tortor. Lorem ipsum dolor sit 
 amet, consectetur adipiscing elit. Aenean ut gravida lorem. Ut turpis 
