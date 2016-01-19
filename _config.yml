@@ -1,0 +1,28 @@
+name: Look at the Lights
+favicon: null
+layout_spectrum: 0.6414269348606467
+typography_spectrum: 0.7246277541853487
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.24477250268682837
+  lightness: 0.8154696295969188
+  saturation: 0.9725793371908367
+  rhythmicContrast: 0.9020838139113039
+purpose: []
